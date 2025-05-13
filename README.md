@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td width="33%">
-      <img src="https://github.com/HXong/kafka-crypto-etl/assets/demo.png" alt="Kafka ETL" width="100%" />
+      <img src="https://github.com/HXong/kafka-crypto-etl/raw/main/assets/demo.png" alt="Kafka ETL" width="100%" />
       <br/>
       <a href="https://github.com/HXong/kafka-crypto-etl" target="_blank">
         <b>Kafka-Based Real-Time Crypto ETL</b>
@@ -32,15 +32,15 @@
       Streamed real-time crypto prices via Kafka, stored in PostgreSQL, visualized in Streamlit.
     </td>
     <td width="33%">
-      <img src="https://github.com/HXong/congestion-routing/assets/demo.png" alt="Congestion Routing" width="100%" />
+      <img src="https://github.com/HXong/Bussin-Buses/raw/main/assets/demo.png" alt="Congestion Routing" width="100%" />
       <br/>
       <a href="https://github.com/HXong/Bussin-Buses" target="_blank">
         <b>Smart Congestion Routing System - Bussin-Buses </b>  
       </a>
       <br/>
-      <img src="https://img.shields.io/github/stars/HXong/congestion-routing?style=social" />
-      <img src="https://img.shields.io/github/forks/HXong/congestion-routing?style=social" />
-      <img src="https://img.shields.io/github/languages/top/HXong/congestion-routing" />
+      <img src="https://img.shields.io/github/stars/HXong/Bussin-Buses?style=social" />
+      <img src="https://img.shields.io/github/forks/HXong/Bussin-Buses?style=social" />
+      <img src="https://img.shields.io/github/languages/top/HXong/Bussin-Buses" />
       <br/>
       Backend system using YOLO & HERE Maps API to suggest alternate routes based on congestion levels.
       <br/>
@@ -49,30 +49,30 @@
       Integration of backend and frontend systems using REST apis framwork.
     </td>
     <td width="33%">
-      <img src="https://github.com/HXong/string-matching-algorithms/assets/demo.png" alt="String Matching" width="100%" />
+      <img src="https://github.com/HXong/string-matching-algorithms/raw/main/assets/demo.png" alt="String Matching" width="100%" />
       <br/>
       <a href="https://github.com/HXong/string-matching-algorithms" target="_blank">
         <b>String Matching Algorithms Analysis</b>
       </a>  
       <br/>
-      <img src="https://img.shields.io/github/stars/HXong/string-matching-algo?style=social" />
-      <img src="https://img.shields.io/github/forks/HXong/string-matching-algo?style=social" />
-      <img src="https://img.shields.io/github/languages/top/HXong/string-matching-algo" />
+      <img src="https://img.shields.io/github/stars/HXong/string-matching-algorithms?style=social" />
+      <img src="https://img.shields.io/github/forks/HXong/string-matching-algorithms?style=social" />
+      <img src="https://img.shields.io/github/languages/top/HXong/string-matching-algorithms" />
       <br/>
       Compared Boyer-Moore, Rabin-Karp, and Brute Force in C & Python on large text datasets.
     </td>
   </tr>
   <tr>
     <td width="33%">
-      <img src="https://github.com/HXong/demographic-forecast/assets/demo.png" alt="Demographic Forecast" width="100%" />
+      <img src="https://github.com/TitanicEclair/Demographic-Forecast/raw/main/assets/demo.png" alt="Demographic Forecast" width="100%" />
       <br/>
       <a href="https://github.com/TitanicEclair/Demographic-Forecast" target="_blank">
         <b>Demographic Forecast with Machine Learning</b>
       </a>
       <br/>
-      <img src="https://img.shields.io/github/stars/HXong/demographic-forecast?style=social" />
-      <img src="https://img.shields.io/github/forks/HXong/demographic-forecast?style=social" />
-      <img src="https://img.shields.io/github/languages/top/HXong/demographic-forecast" />
+      <img src="https://img.shields.io/github/stars/TitanicEclair/Demographic-Forecast?style=social" />
+      <img src="https://img.shields.io/github/forks/TitanicEclair/Demographic-Forecast?style=social" />
+      <img src="https://img.shields.io/github/languages/top/TitanicEclair/Demographic-Forecast" />
       <br/>
       Forecasted child, elderly, and total dependency ratios using ML models (Random Forest, GBM, LinReg).  
       <br/>
