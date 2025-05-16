@@ -78,6 +78,19 @@
       <br/>
       Provided feature importance analysis for policy insights and sustainable planning.
     </td>
+    <td width="33%">
+      <img src="https://github.com/HXong/Inventory-Management-System/raw/main/assets/demo.png" alt="Inventory Management System" width="100%" />
+      <br/>
+      <a href="https://github.com/HXong/Inventory-Management-System" target="_blank">
+        <b>Inventory Management System</b>
+      </a>
+      <br/>
+      <img src="https://img.shields.io/github/stars/HXong/Inventory-Management-System?style=social" />
+      <img src="https://img.shields.io/github/forks/HXong/Inventory-Management-System?style=social" />
+      <img src="https://img.shields.io/github/languages/top/HXong/Inventory-Management-System" />
+      <br/>
+      Used Golang, Gin, GORM, and MySQL, featuring secure JWT authentication and role-based access control.
+    </td>
     <td colspan="2"></td>
   </tr>
 </table>
