@@ -48,6 +48,23 @@
       <br/>
       Integration of backend and frontend systems using REST apis framwork.
     </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <img src="https://github.com/Yeesbae/SC2079/blob/hx-dev-android/android/sc2079_ay2526s2_grp08/assets/demo.gif" alt="Android Robot Dashboard" width="100%" />
+      <br/>
+      <a href="https://github.com/Yeesbae/SC2079/tree/hx-dev-android/android/sc2079_ay2526s2_grp08/app/src/main" target="_blank">
+        <b>Real-Time Robot Control Dashboard (Android)</b>
+      </a>
+      <br/>
+      <img src="https://img.shields.io/github/stars/Yeesbae/SC2079?style=social" />
+      <img src="https://img.shields.io/github/forks/Yeesbae/SC2079?style=social" />
+      <img src="https://img.shields.io/github/languages/top/Yeesbae/SC2079" />
+      <br/>
+      Android-based real-time control system for robot navigation using Bluetooth communication.
+      <br/>
+      Features custom protocol design, path playback engine, and live visualization of robot movement and image detection.
+    </td>
     <td width="33%">
       <img src="https://github.com/HXong/string-matching-algorithms/raw/main/assets/demo.png" alt="String Matching" width="100%" />
       <br/>
@@ -60,6 +77,19 @@
       <img src="https://img.shields.io/github/languages/top/HXong/string-matching-algorithms" />
       <br/>
       Compared Boyer-Moore, Rabin-Karp, and Brute Force in C & Python on large text datasets.
+    </td>
+    <td width="33%">
+      <img src="https://github.com/HXong/Inventory-Management-System/raw/main/assets/demo.png" alt="Inventory Management System" width="100%" />
+      <br/>
+      <a href="https://github.com/HXong/Inventory-Management-System" target="_blank">
+        <b>Inventory Management System</b>
+      </a>
+      <br/>
+      <img src="https://img.shields.io/github/stars/HXong/Inventory-Management-System?style=social" />
+      <img src="https://img.shields.io/github/forks/HXong/Inventory-Management-System?style=social" />
+      <img src="https://img.shields.io/github/languages/top/HXong/Inventory-Management-System" />
+      <br/>
+      Used Golang, Gin, GORM, and MySQL, featuring secure JWT authentication and role-based access control.
     </td>
   </tr>
   <tr>
@@ -78,20 +108,6 @@
       <br/>
       Provided feature importance analysis for policy insights and sustainable planning.
     </td>
-    <td width="33%">
-      <img src="https://github.com/HXong/Inventory-Management-System/raw/main/assets/demo.png" alt="Inventory Management System" width="100%" />
-      <br/>
-      <a href="https://github.com/HXong/Inventory-Management-System" target="_blank">
-        <b>Inventory Management System</b>
-      </a>
-      <br/>
-      <img src="https://img.shields.io/github/stars/HXong/Inventory-Management-System?style=social" />
-      <img src="https://img.shields.io/github/forks/HXong/Inventory-Management-System?style=social" />
-      <img src="https://img.shields.io/github/languages/top/HXong/Inventory-Management-System" />
-      <br/>
-      Used Golang, Gin, GORM, and MySQL, featuring secure JWT authentication and role-based access control.
-    </td>
-    <td colspan="2"></td>
   </tr>
 </table>
 <!--
