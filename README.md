@@ -1,9 +1,16 @@
 ## Hi there 👋
 
 ## 👨‍💻 About Me
-- I'm a dedicated and proactive Computer Science enthusiast with a strong foundation in Python, C/C++, and Java. 
-- Passionate about solving real-world problems through technology, I thrive in dynamic environments where I can apply my technical and problem-solving skills. 
-- A lifelong learner, I embrace challenges and enjoy collaborating within teams to deliver impactful solutions.
+- Backend-focused Computer Science student with experience building scalable systems and infrastructure in real-world environments.
+- I have worked on microservices architecture using Golang and gRPC, implemented Kafka-based event pipelines, and optimized logging systems in Kubernetes using Fluent Bit. I enjoy tackling performance and scalability challenges, including handling high-concurrency workloads and large-scale data processing.
+- My interests lie in backend engineering, distributed systems, and data infrastructure, where I can design systems that are reliable, efficient, and production-ready.
+- Currently exploring advanced system design patterns and data engineering workflows.
+
+## 🛠 Tech Stack
+- Backend: Golang, Python (Django)
+- Infrastructure: Docker, Kubernetes, Helm, ArgoCD
+- Data: Kafka, PostgreSQL, MySQL, Redis
+- Tools: Grafana, Kibana, CI/CD (GitLab)
 
 ## 🔑 Key Strengths
 - Process Improvement | Analytical Planning | Critical Thinking
@@ -47,6 +54,21 @@
       Frontend system using Flutter and Dart for display.
       <br/>
       Integration of backend and frontend systems using REST apis framwork.
+    </td>
+    <td width="33%">
+      <img src="https://github.com/HXong/SC3020_Group25/blob/main/assets/query_annotator.png" alt="SQL Query Plan Analyzer" width="100%" />
+      <br/>
+      <a href="https://github.com/HXong/SC3020_Group25" target="_blank">
+        <b>SQL Query Plan Analyzer & Visualizer</b>
+      </a>
+      <br/>
+      <img src="https://img.shields.io/github/stars/HXong/SC3020_Group25?style=social" />
+      <img src="https://img.shields.io/github/forks/HXong/SC3020_Group25?style=social" />
+      <img src="https://img.shields.io/github/languages/top/HXong/SC3020_Group25" />
+      <br/>
+      Built a system to extract and explain PostgreSQL Query Execution Plans (QEP) with clause-level annotations and graph visualization.
+      <br/>
+      Implemented predicate normalization, cost-based join reasoning, and SQL-to-plan mapping.
     </td>
   </tr>
   <tr>
